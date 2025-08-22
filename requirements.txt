@@ -1,0 +1,14 @@
+streamlit
+scikit-learn
+pandas
+numpy
+tensorflow
+Pillow
+keras
+matplotlib
+seaborn
+transformers
+Pillow
+xgboost
+joblib
+pickle

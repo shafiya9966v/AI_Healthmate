@@ -11,4 +11,5 @@ transformers
 Pillow
 xgboost
 joblib
-pickle
+
+

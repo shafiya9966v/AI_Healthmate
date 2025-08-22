@@ -11,5 +11,6 @@ transformers
 Pillow
 xgboost
 joblib
+plotly
 
 
